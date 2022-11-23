@@ -1,5 +1,5 @@
 let search = 'New York';
-const apiKey ='a4a7ec9cbeb042f0a0c2054b9619b0dc'
+const apiKey =''
 
 const cityName = document.querySelector("#city-name")
 const temperature = document.querySelector("#temperature") 
